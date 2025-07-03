@@ -1,0 +1,31 @@
+{
+  "capture_timestamp": "20250703_000434", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/google.com_20250703_000434/request_001.txt", 
+      "url": "https://google.com:443/ccm/form-data/807028868?gtm=45fe5711h2p3v9192978174za200zb863745186&gcs=G1--&gcd=13l3l3R3l5l1&dma=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104528500~104684208~104684211~104718208~104839054~104839056~104885889~104885891&npa=0&frm=0&gclgs=1&gclst=1514005&gcllp=103095583&gclaw=EAIaIQobChMImM6CodSfjgMVB1dIAB2N0CyuEAAYASAAEgLBevD_BwE&auid=72731936.1751510365&uaa=&uab=&uafvl=&uamb=0&uam=&uap=Windows&uapv=&uaw=0&ec_mode=a&_tu=Kg&ecsid=250141416.1751510388&em=tv.1~em.nf0vDzJZFf5TOrGIMUi9Mf5SuYz4ry-ScqC5h5eSQY4", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/google.com_20250703_000434/response_001.txt", 
+      "timestamp": 1751511874479
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/google.com_20250703_000434/request_002.txt", 
+      "url": "https://google.com:443/pagead/form-data/807028868?gtm=45fe5711h2v9192978174za200zb863745186&gcs=G1--&gcd=13l3l3R3l5l1&dma=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104528500~104684208~104684211~104718208~104839054~104839056~104885889~104885891&npa=0&frm=0&gclgs=1&gclst=1514003&gcllp=103095583&gclaw=EAIaIQobChMImM6CodSfjgMVB1dIAB2N0CyuEAAYASAAEgLBevD_BwE&auid=72731936.1751510365&uaa=&uab=&uafvl=&uamb=0&uam=&uap=Windows&uapv=&uaw=0&_tu=Kg", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/google.com_20250703_000434/response_002.txt", 
+      "timestamp": 1751511874479
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/google.com_20250703_000434/request_003.txt", 
+      "url": "https://google.com:443/pagead/form-data/861103808?gtm=45je5711h2v9103273604za200zb863745186&gcs=G1--&gcd=13l3l3R3l5l1&dma=0&tag_exp=101509157~102015666~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104718208~104839054~104839056~104885889~104885891&npa=0&frm=0&gclgs=1&gclst=1513977&gcllp=103095583&gclaw=EAIaIQobChMImM6CodSfjgMVB1dIAB2N0CyuEAAYASAAEgLBevD_BwE&auid=72731936.1751510365&uaa=&uab=&uafvl=&uamb=0&uam=&uap=Windows&uapv=&uaw=0", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/google.com_20250703_000434/response_003.txt", 
+      "timestamp": 1751511874479
+    }
+  ], 
+  "host": "google.com", 
+  "total_requests": 3
+}
